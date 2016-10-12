@@ -6,13 +6,8 @@ this is new line
 thsi is bug
 this is newbug
 this is brand
-<<<<<<< HEAD
 this is master
-=======
 this is fenzhi1
-<<<<<<< HEAD
->>>>>>> fenzhi1
-=======
 this is new bug
 this is 404bug
 >>>>>>> issue-404
