@@ -6,3 +6,4 @@ this is new line
 thsi is bug
 this is newbug
 this is brand
+this is master
