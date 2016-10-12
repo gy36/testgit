@@ -8,3 +8,4 @@ this is newbug
 this is brand
 this is fenzhi1
 this is new bug
+this is 404bug
